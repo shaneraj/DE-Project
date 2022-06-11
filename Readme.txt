@@ -1,4 +1,2 @@
-This is the read me file with more changes made to it.
-Change 1.
-Change 2.
-Change 3.
+Changes have been made to this readme file for the purpose of showing that it can be reverted to an earlier version.
+0123456789
