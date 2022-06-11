@@ -1,1 +1,1 @@
-This is a read me file with an edition made.
+This is a read me file.
